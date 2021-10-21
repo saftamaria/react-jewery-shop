@@ -1,7 +1,9 @@
 import product1 from '../../images/product-1.jpg';
 import product2 from '../../images/product-2.jpg';
 import product3 from '../../images/product-3.jpg';
-import product4 from '../../images/product-4.jpg';
+import product4 from '../../images/product-5.jpg';
+import product5 from '../../images/product-4.jpg';
+import product6 from '../../images/product-6.jpg';
 import sweet1 from '../../images/sweet3.jpg';
 import sweet2 from '../../images/sweet-2.jpg';
 
@@ -21,7 +23,7 @@ export const productData = [
     name: 'Saphire',
     desc:
       ' 0.18 carat H VS2 triple excellent none fluor. GIA certified round diamond. 18K Gold. Diameter main diamond ~3.6mm. GIA certificate and luxury packaging included.',
-    price: '$626.99',
+    price: '$626.89',
     button: 'Add to Cart'
   },
   {
@@ -36,10 +38,28 @@ export const productData = [
   {
     img: product4,
     alt: 'Ring',
+    name: 'Perl',
+    desc:
+      'A symbol of peace and abundance. Ring in sterling silver with freshwater cultured pearls. Pearls, 9.5-10 mm.',
+    price: '$525.20',
+    button: 'Add to Cart'
+  },
+  {
+    img: product5,
+    alt: 'Ring',
     name: 'Citrine',
     desc:
       '1.20 carat Natural Citrine. 0.14 carat Diamond. 18K Gold Ring. Also if you require advice from our experts.',
-    price: '$499.99',
+    price: '$629.89',
+    button: 'Add to Cart'
+  },
+   {
+    img: product6,
+    alt: 'Ring',
+    name: 'Emerald',
+    desc:
+    '1.24 ctw Emerald Cut Natural Emerald and Diamond Ring in 14k white gold. It comes with luxury package',
+    price: '$729.79',
     button: 'Add to Cart'
   }
 ];
